@@ -1,0 +1,29 @@
+@font-face{
+    font-family: 'vazir';
+    src: url('./Vazirmatn-Light.ttf');
+   }
+div{
+    font-family: 'vazir';
+}
+.header--logo-blogfa{
+    width: 157px;
+    height: 30px;  
+}
+.main--topbox{
+    background-image: url("http://www.blogfa.com/static/images/backpattern.png");
+    background-size: cover;
+    height: 230px;
+}
+.bg-secondary{
+    background-color: rgb(237, 235, 235) !important;
+}
+.max-height-14rem{
+    max-height: 15rem;
+    min-height: 11rem;
+}
+.wt-33{
+    width: 30%;
+}
+a{
+    text-decoration: none;
+}
